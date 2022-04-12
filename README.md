@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vivek Srivastava
 - 👀 I’m interested in Development of new Products in Autonomous Vehicles, Unmanned Vehicles (Air, Water, Land), Robotics and Embedded System Developments
 - 🌱 I’m currently learning Natural Language Processing, Pytorch, Computer Vision
-- 💞️ I’m looking to collaborate on Robotics and Autonomous Drive Vehicles
+- 💞️ I’m looking to collaborate on Robotics, Autonomous Drive Vehicles, ADAS Systems and Computer/Machine Vision Projects and research.
 - 📫 How to reach me email: vicky30mar82@gmail.com, LinkedIn: https://www.linkedin.com/in/vivek-srivastava-58117ba/
 
 <!---
